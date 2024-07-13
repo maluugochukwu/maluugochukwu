@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Hi there 👋
 
 I'm Ugo Malu and this account is a show case of stuff that I like working on.
 
