@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi there 👋
+
+I'm Ugo Malu and this account is a show case of stuff that I like working on.
+
+- 🔭 I’m currently working on completing a resturant app
+- 🌱 I’m currently learning Svelte, and Web Components
+- 💬 Ask me about anything (within reason)
+- 🎁 My offical GitHub: https://github.com/maluugochukwu
+
 <!--
 **maluugochukwu/maluugochukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
